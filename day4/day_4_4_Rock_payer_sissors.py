@@ -56,5 +56,3 @@ elif reslut == 2:
     print("You lose")
 elif reslut == -2:
     print("You win")
-else:
-    print("You input a wrong number, please try again")
